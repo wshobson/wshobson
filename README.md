@@ -27,7 +27,7 @@ Hello! 👋 I'm Seth, a passionate software architect with over 15 years of expe
 
 ### 🛠 Skills
 
-- Full-Stack Development: Python, Elixir, JavaScript, Rust
+- Full-Stack Development: Python, Elixir, JavaScript, Rust, Dart
 - AI/ML Integration with a Focus on Solving Practical, Real-world Challenges
 - Data Analysis and Visualization
 - Cloud Computing and Distributed Systems

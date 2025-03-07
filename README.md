@@ -46,10 +46,14 @@ An AI-powered financial guide offering insights on trading and investment, detai
 #### 🤖 [Financial Chat](https://github.com/wshobson/financial-chat)
 An open-source project demonstrating AI-driven financial analysis using OpenBB and LangChain.
 
+#### 🖥️ [MCP Trader Server](https://github.com/wshobson/mcp-trader)
+A Model Context Protocol (MCP) server for stock traders.
+
 ### 📝 Latest Blog Posts
 
 I regularly write about AI, software development, and financial technology on my blog, "Swapping Symbols". Check out some recent articles:
-
+- [Building a Stock Analysis Server with MCP, Part 2](https://sethhobson.com/2025/03/building-a-stock-analysis-server-with-mcp-part-2/)
+- [Building a Stock Analysis Server with MCP, Part 1](https://sethhobson.com/2025/01/building-a-stock-analysis-server-with-mcp-part-1/)
 - [Unlocking the Power of AI: Transform Your Trading Strategy](https://sethhobson.com/2024/10/unlocking-the-power-of-ai-transform-your-trading-strategy/)
 - [Elevate Your Trading: Integrating Custom Data with OpenBB Terminal Pro](https://sethhobson.com/2024/08/elevate-your-trading-integrating-custom-data-with-openbb-terminal-pro/)
 - [Introducing Capital Companion: A New Approach to AI-Assisted Trading](https://sethhobson.com/2024/09/introducing-capital-companion-a-new-approach-to-ai-assisted-trading/)

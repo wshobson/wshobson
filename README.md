@@ -1,8 +1,8 @@
 # 👨‍💻 Seth Hobson
 
-## Software Architect | Web, Data, AI
+## Senior AI Engineer | Building Intelligent Systems | ML Architecture | Founder @ Capital Companion
 
-Hello! 👋 I'm Seth, a passionate software architect with over 15 years of experience building forward-thinking, data-driven applications, services, and distributed systems. I love solving complex problems and creating a positive impact through technology.
+Hello! 👋 I'm Seth, a passionate software architect with over 16 years of experience building forward-thinking, data-driven applications, services, and distributed systems. I love solving complex problems and creating a positive impact through technology.
 
 <a href="https://github.com/major7apps/capital_companion">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wshobson&layout=compact&langs_count=8&card_width=320" />
@@ -12,8 +12,7 @@ Hello! 👋 I'm Seth, a passionate software architect with over 15 years of expe
 ### 🚀 About Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wshobson)
-- 🌐 [Personal Site](https://bio.site/traderaegis)
-- 📧 [Business Email](mailto:seth@major7apps.com)
+- 🌐 [Personal Site](https://sethhobson.com)
 
 ### 💼 Professional Experience
 
@@ -24,7 +23,7 @@ Hello! 👋 I'm Seth, a passionate software architect with over 15 years of expe
 
 ### 🛠 Skills
 
-- Full-Stack Development: Python, Elixir, JavaScript, Rust, Dart
+- Full-Stack Development: Python, JavaScript, Elixir Rust, Dart
 - AI/ML Integration with a Focus on Solving Practical, Real-world Challenges
 - Data Analysis and Visualization
 - Cloud Computing and Distributed Systems

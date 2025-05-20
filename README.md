@@ -4,9 +4,6 @@
 
 Hello! 👋 I'm Seth, a passionate software architect with over 15 years of experience building forward-thinking, data-driven applications, services, and distributed systems. I love solving complex problems and creating a positive impact through technology.
 
-<a href="https://github.com/wshobson/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wshobson&show_icons=true&locale=en&theme=default&rank_icon=github" />
-</a>
 <a href="https://github.com/major7apps/capital_companion">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wshobson&layout=compact&langs_count=8&card_width=320" />
 </a>

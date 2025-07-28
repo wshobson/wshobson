@@ -2,7 +2,7 @@
 
 ## Senior AI/ML Engineer | Building Intelligent Systems | MLOps | Founder @ Capital Companion
 
-Hello! 👋 I'm Seth, a passionate software architect with over 16 years of experience building forward-thinking, data-driven applications, services, and distributed systems. I love solving complex problems and creating a positive impact through technology.
+Hello! 👋 I’m Seth Hobson. I’m a software engineer with over 15 years of experience. I build modern, data-driven applications, services, and distributed systems. I specialize in exploring the intersection of finance, technology, and artificial intelligence.
 
 ### 🚀 About Me
 

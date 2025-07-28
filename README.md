@@ -1,6 +1,6 @@
 # 👨‍💻 Seth Hobson
 
-## Senior AI Engineer | Building Intelligent Systems | ML Architecture | Founder @ Capital Companion
+## Senior AI/ML Engineer | Building Intelligent Systems | ML Architecture | Founder @ Capital Companion
 
 Hello! 👋 I'm Seth, a passionate software architect with over 16 years of experience building forward-thinking, data-driven applications, services, and distributed systems. I love solving complex problems and creating a positive impact through technology.
 

@@ -11,17 +11,23 @@ Hello! 👋 I'm Seth, a passionate software architect with over 16 years of expe
 
 ### 💼 Professional Experience
 
-- Founder/Architect at Major 7 Apps, LLC (Current)
+- Senior AI Engineer, United Data Technologies (2025-present)
+- Founder/Architect at Major 7 Apps, LLC (2024-present)
 - Senior Software Engineer at Kuali, Inc. (2021-2023)
 - Senior Software Engineer at Apple (2015-2021)
 - Various roles in software development and web technologies (2009-2015)
 
 ### 🛠 Skills
 
-- Full-Stack Development: Python, JavaScript, Elixir Rust, Dart
-- AI/ML Integration with a Focus on Solving Practical, Real-world Challenges
+- Full-Stack Development: Python, Go, SQL, C, Rust, JavaScript
+- AI/ML/LLM Implementation, Integration, Evaluations (using science, not vibes)
+- Data Pipeline Engineering
+- Optimizing LLM Performance using RAG and Fine-tuning
+- API Engineering (REST, GraphQL, gRPC, MCP, A2A)
+- Database Design (RDBMS and NoSQL)
+- Software Architecture and Design
+- Cloud Computing and Distributed Systems (AWS, Azure, Terraform)
 - Data Analysis and Visualization
-- Cloud Computing and Distributed Systems
 
 ### 🎓 Education
 

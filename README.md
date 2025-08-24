@@ -48,9 +48,10 @@ A personal stock analysis MCP server for traders and investors.
 
 ### 📝 Latest Blog Posts
 
-I regularly write about AI, software development, and financial technology on my blog, "Swapping Symbols". Check out some recent articles:
-- [Building a Stock Analysis Server with MCP, Part 2](https://sethhobson.com/2025/03/building-a-stock-analysis-server-with-mcp-part-2/)
-- [Building a Stock Analysis Server with MCP, Part 1](https://sethhobson.com/2025/01/building-a-stock-analysis-server-with-mcp-part-1/)
+I regularly write about AI, software development, and financial technology on my blog. Check out some recent articles:
+- [How to Build an MCP Stock Analysis Server](https://sethhobson.com/2025/08/how-to-build-an-mcp-stock-analysis-server/)
+- [Building a Stock Analysis Server with MCP, Part 2](https://sethhobson.com/2025/03/building-a-stock-analysis-server-with-mcp-part-2/) (legacy)
+- [Building a Stock Analysis Server with MCP, Part 1](https://sethhobson.com/2025/01/building-a-stock-analysis-server-with-mcp-part-1/) (legacy)
 - [Unlocking the Power of AI: Transform Your Trading Strategy](https://sethhobson.com/2024/10/unlocking-the-power-of-ai-transform-your-trading-strategy/)
 - [Elevate Your Trading: Integrating Custom Data with OpenBB Terminal Pro](https://sethhobson.com/2024/08/elevate-your-trading-integrating-custom-data-with-openbb-terminal-pro/)
 - [Introducing Capital Companion: A New Approach to AI-Assisted Trading](https://sethhobson.com/2024/09/introducing-capital-companion-a-new-approach-to-ai-assisted-trading/)

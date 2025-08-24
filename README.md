@@ -43,8 +43,8 @@ An AI-powered financial guide offering insights on trading and investment, detai
 #### 🤖 [Financial Chat](https://github.com/wshobson/financial-chat)
 An open-source project demonstrating AI-driven financial analysis using OpenBB and LangChain.
 
-#### 🖥️ [MCP Trader Server](https://github.com/wshobson/mcp-trader)
-A Model Context Protocol (MCP) server for stock traders.
+#### 🖥️ [MaverickMCP](https://github.com/wshobson/maverick-mcp)
+A personal stock analysis MCP server for traders and investors.
 
 ### 📝 Latest Blog Posts
 

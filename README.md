@@ -37,6 +37,12 @@ Hello! 👋 I'm Seth Hobson, a software engineer with 15+ years building data-dr
 
 ### 🌟 Recent Projects
 
+#### 🤖 [Agents](https://github.com/wshobson/agents) ⭐ 14.5k+
+Production-ready subagents for Claude Code—50+ specialized agents for backend architecture, frontend development, security auditing, performance optimization, and more.
+
+#### ⚡ [Commands](https://github.com/wshobson/commands) ⭐ 800+
+52 slash commands for Claude Code enabling multi-agent orchestration. Includes workflows for full-stack development, incident response, ML pipelines, and security hardening.
+
 #### 📈 [Capital Companion](https://capitalcompanion.ai)
 AI-powered financial guide offering trading insights, stock analysis, and risk management.
 

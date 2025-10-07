@@ -19,14 +19,14 @@ Hello! 👋 I’m Seth Hobson. I’m a software engineer with over 15 years of e
 
 ### 🛠 Skills
 
-- Full-Stack Development: Python, Go, SQL, C, Rust, JavaScript
+- Software Architecture and Design
+- Full-Stack Development: Python, JavaScript/TypeScript, SQL, Go, C, Rust
 - AI/ML/LLM Implementation, Integration, Evaluations (using science, not vibes)
-- Data Pipeline Engineering
-- Optimizing LLM Performance using RAG and Fine-tuning
+- Optimizing LLM Performance using RAG and SFT
 - API Engineering (REST, GraphQL, gRPC, MCP, A2A)
 - Database Design (RDBMS and NoSQL)
-- Software Architecture and Design
-- Cloud Computing and Distributed Systems (AWS, Azure, Terraform)
+- Data Pipeline Engineering
+- Cloud Computing and Distributed Systems (Azure, AWS, Terraform)
 - Data Analysis and Visualization
 
 ### 🎓 Education
@@ -55,7 +55,3 @@ I regularly write about AI, software development, and financial technology on my
 - [Unlocking the Power of AI: Transform Your Trading Strategy](https://sethhobson.com/2024/10/unlocking-the-power-of-ai-transform-your-trading-strategy/)
 - [Elevate Your Trading: Integrating Custom Data with OpenBB Terminal Pro](https://sethhobson.com/2024/08/elevate-your-trading-integrating-custom-data-with-openbb-terminal-pro/)
 - [Introducing Capital Companion: A New Approach to AI-Assisted Trading](https://sethhobson.com/2024/09/introducing-capital-companion-a-new-approach-to-ai-assisted-trading/)
-
-### 📫 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just have a chat about software architecture and AI!

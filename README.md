@@ -2,7 +2,7 @@
 
 ## Software Engineer | Building Intelligent Systems | MLOps | Founder @ Capital Companion
 
-Hello! 👋 I’m Seth Hobson. I’m a software engineer with over 15 years of experience. I build modern, data-driven applications, services, and distributed systems. I specialize in exploring the intersection of finance, technology, and artificial intelligence.
+Hello! 👋 I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 
 ### 🚀 About Me
 
@@ -12,21 +12,21 @@ Hello! 👋 I’m Seth Hobson. I’m a software engineer with over 15 years of e
 ### 💼 Professional Experience
 
 - Senior AI Engineer, United Data Technologies (2025-present)
-- Founder/Architect at Major 7 Apps, LLC (2024-present)
-- Senior Software Engineer at Kuali, Inc. (2021-2023)
-- Senior Software Engineer at Apple (2015-2021)
-- Various roles in software development and web technologies (2009-2015)
+- Founder/Architect,  Major 7 Apps, LLC (2024-present)
+- Senior Software Engineer, Kuali, Inc. (2021-2023)
+- Senior Software Engineer, Apple (2015-2021)
+- Software development and web technologies (2009-2015)
 
 ### 🛠 Skills
 
 - Software Architecture and Design
 - Full-Stack Development: Python, JavaScript/TypeScript, SQL, Go, C, Rust
-- AI/ML/LLM Implementation, Integration, Evaluations (using science, not vibes)
-- Optimizing LLM Performance using RAG and SFT
-- API Engineering (REST, GraphQL, gRPC, MCP, A2A)
-- Database Design (RDBMS and NoSQL)
+- AI/ML/LLM Implementation and Integration
+- LLM Performance Optimization: RAG, Agentic RAG, SFT, and RAFT
+- API Engineering: REST, GraphQL, gRPC, MCP, A2A
+- Database Design: RDBMS and NoSQL
 - Data Pipeline Engineering
-- Cloud Computing and Distributed Systems (Azure, AWS, Terraform)
+- Cloud Computing and Distributed Systems: Azure, AWS, Terraform
 - Data Analysis and Visualization
 
 ### 🎓 Education
@@ -38,17 +38,18 @@ Hello! 👋 I’m Seth Hobson. I’m a software engineer with over 15 years of e
 ### 🌟 Recent Projects
 
 #### 📈 [Capital Companion](https://capitalcompanion.ai)
-An AI-powered financial guide offering insights on trading and investment, detailed stock analysis, and risk management.
-
-#### 🤖 [Financial Chat](https://github.com/wshobson/financial-chat)
-An open-source project demonstrating AI-driven financial analysis using OpenBB and LangChain.
+AI-powered financial guide offering trading insights, stock analysis, and risk management.
 
 #### 🖥️ [MaverickMCP](https://github.com/wshobson/maverick-mcp)
-A personal stock analysis MCP server for traders and investors.
+Personal stock analysis MCP server for traders and investors.
+
+#### 🤖 [Financial Chat](https://github.com/wshobson/financial-chat)
+Open-source AI-driven financial analysis using OpenBB and LangChain.
 
 ### 📝 Latest Blog Posts
 
-I regularly write about AI, software development, and financial technology on my blog. Check out some recent articles:
+I write about AI, software development, and financial technology on [my blog](https://sethhobson.com):
+
 - [How to Build an MCP Stock Analysis Server](https://sethhobson.com/2025/08/how-to-build-an-mcp-stock-analysis-server/)
 - [Building a Stock Analysis Server with MCP, Part 2](https://sethhobson.com/2025/03/building-a-stock-analysis-server-with-mcp-part-2/) (legacy)
 - [Building a Stock Analysis Server with MCP, Part 1](https://sethhobson.com/2025/01/building-a-stock-analysis-server-with-mcp-part-1/) (legacy)

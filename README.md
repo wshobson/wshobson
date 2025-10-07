@@ -1,15 +1,15 @@
-# 👨‍💻 Seth Hobson
+# Seth Hobson
 
 ## Software Engineer | Building Intelligent Systems | MLOps | Founder @ Capital Companion
 
-Hello! 👋 I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
+Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 
-### 🚀 About Me
+### About Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wshobson)
-- 🌐 [Personal Site](https://sethhobson.com)
+- [LinkedIn](https://www.linkedin.com/in/wshobson)
+- [Personal Site](https://sethhobson.com)
 
-### 💼 Professional Experience
+### Professional Experience
 
 - Senior AI Engineer, United Data Technologies (2025-present)
 - Founder/Architect,  Major 7 Apps, LLC (2024-present)
@@ -17,7 +17,7 @@ Hello! 👋 I'm Seth Hobson, a software engineer with 15+ years building data-dr
 - Senior Software Engineer, Apple (2015-2021)
 - Software development and web technologies (2009-2015)
 
-### 🛠 Skills
+### Skills
 
 - Software Architecture and Design
 - Full-Stack Development: Python, JavaScript/TypeScript, SQL, Go, C, Rust
@@ -29,30 +29,30 @@ Hello! 👋 I'm Seth Hobson, a software engineer with 15+ years building data-dr
 - Cloud Computing and Distributed Systems: Azure, AWS, Terraform
 - Data Analysis and Visualization
 
-### 🎓 Education
+### Education
 
 - Master of Music, Vocal Performance - Indiana University Bloomington
 - Bachelor of Science, Computer Science - Appalachian State University
 - Bachelor of Music, Vocal Performance - Appalachian State University
 
-### 🌟 Recent Projects
+### Recent Projects
 
-#### 🤖 [Agents](https://github.com/wshobson/agents) ⭐ 14.5k+
+#### [Agents](https://github.com/wshobson/agents) • 14.5k+ stars
 Production-ready subagents for Claude Code—50+ specialized agents for backend architecture, frontend development, security auditing, performance optimization, and more.
 
-#### ⚡ [Commands](https://github.com/wshobson/commands) ⭐ 800+
+#### [Commands](https://github.com/wshobson/commands) • 800+ stars
 52 slash commands for Claude Code enabling multi-agent orchestration. Includes workflows for full-stack development, incident response, ML pipelines, and security hardening.
 
-#### 📈 [Capital Companion](https://capitalcompanion.ai)
+#### [Capital Companion](https://capitalcompanion.ai)
 AI-powered financial guide offering trading insights, stock analysis, and risk management.
 
-#### 🖥️ [MaverickMCP](https://github.com/wshobson/maverick-mcp)
+#### [MaverickMCP](https://github.com/wshobson/maverick-mcp)
 Personal stock analysis MCP server for traders and investors.
 
-#### 🤖 [Financial Chat](https://github.com/wshobson/financial-chat)
+#### [Financial Chat](https://github.com/wshobson/financial-chat)
 Open-source AI-driven financial analysis using OpenBB and LangChain.
 
-### 📝 Latest Blog Posts
+### Latest Blog Posts
 
 I write about AI, software development, and financial technology on [my blog](https://sethhobson.com):
 

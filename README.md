@@ -38,7 +38,7 @@ Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven 
 ### Recent Projects
 
 #### [Agents](https://github.com/wshobson/agents) • 14.5k+ stars
-Production-ready subagents for Claude Code—50+ specialized agents for backend architecture, frontend development, security auditing, performance optimization, and more.
+A comprehensive production-ready system combining 84 specialized AI agents, 15 multi-agent workflow orchestrators, and 44 development tools organized into 62 focused, single-purpose plugins for Claude Code.
 
 #### [Commands](https://github.com/wshobson/commands) • 800+ stars
 52 slash commands for Claude Code enabling multi-agent orchestration. Includes workflows for full-stack development, incident response, ML pipelines, and security hardening.

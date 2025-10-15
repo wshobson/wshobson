@@ -12,9 +12,9 @@ Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven 
 ### Professional Experience
 
 - Senior AI Engineer, United Data Technologies (2025-present)
-- Founder/Architect,  Major 7 Apps, LLC (2024-present)
-- Senior Software Engineer, Kuali, Inc. (2021-2023)
-- Senior Software Engineer, Apple (2015-2021)
+- Founder/Architect,  Major 7 Apps LLC (2024-present)
+- Senior Software Engineer, Kuali Inc. (2021-2023)
+- Senior Software Engineer, Apple Inc. (2015-2021)
 - Software development and web technologies (2009-2015)
 
 ### Skills
@@ -46,7 +46,7 @@ A comprehensive production-ready system combining 84 specialized AI agents, 15 m
 #### [Capital Companion](https://capitalcompanion.ai)
 AI-powered financial guide offering trading insights, stock analysis, and risk management.
 
-#### [MaverickMCP](https://github.com/wshobson/maverick-mcp)
+#### [Maverick MCP](https://github.com/wshobson/maverick-mcp)
 Personal stock analysis MCP server for traders and investors.
 
 #### [Financial Chat](https://github.com/wshobson/financial-chat)

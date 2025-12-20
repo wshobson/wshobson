@@ -37,19 +37,19 @@ Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven 
 
 ### 🚀 Recent Projects
 
-#### [Claude Code Plugins](https://github.com/wshobson/agents) • 22k+ stars
+#### [Claude Code Plugins](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 A comprehensive production-ready system combining 84 specialized AI agents, 15 multi-agent workflow orchestrators, and 44 development tools organized into 62 focused, single-purpose plugins for Claude Code.
 
-#### [Claude Code Slash Commands](https://github.com/wshobson/commands) • 800+ stars
+#### [Claude Code Slash Commands](https://github.com/wshobson/commands) ![GitHub stars](https://img.shields.io/github/stars/wshobson/commands?style=social)
 52 slash commands for Claude Code enabling multi-agent orchestration. Includes workflows for full-stack development, incident response, ML pipelines, and security hardening.
 
 #### [Capital Companion](https://capitalcompanion.ai)
 AI-powered financial guide offering trading insights, stock analysis, and risk management.
 
-#### [Maverick MCP](https://github.com/wshobson/maverick-mcp)
+#### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 Personal stock analysis MCP server for traders and investors.
 
-#### [Financial Chat](https://github.com/wshobson/financial-chat)
+#### [Financial Chat](https://github.com/wshobson/financial-chat) ![GitHub stars](https://img.shields.io/github/stars/wshobson/financial-chat?style=social)
 Open-source AI-driven financial analysis using OpenBB and LangChain.
 
 ### 📝 Latest Blog Posts

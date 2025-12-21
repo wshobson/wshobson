@@ -6,8 +6,7 @@ Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven 
 
 ### 👤 About Me
 
-- [LinkedIn](https://www.linkedin.com/in/wshobson)
-- [Personal Site](https://sethhobson.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshobson) [![Personal Site](https://img.shields.io/badge/Personal_Site-%23000000.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://sethhobson.com)
 
 ### 💼 Professional Experience
 

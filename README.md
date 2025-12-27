@@ -1,8 +1,8 @@
 # Seth Hobson
 
-## AI Engineer | GenAI Platforms | MLOps | Founder @ Capital Companion
+## AI Engineer | Applied AI | Data Engineering | Founder @ Capital Companion
 
-Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
+Hello! I'm Seth Hobson, an experienced software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 
 ### 👤 About Me
 

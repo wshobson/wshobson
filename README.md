@@ -1,6 +1,6 @@
 # Seth Hobson
 
-## AI Engineer | Applied AI | Data Engineering | Founder @ Capital Companion
+## Software Engineer | Applied AI | Data Engineering | Founder @ Capital Companion
 
 Hello! I'm Seth Hobson, an experienced software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 

@@ -46,6 +46,9 @@ A comprehensive production-ready system combining 84 specialized AI agents, 15 m
 #### [Capital Companion](https://capitalcompanion.ai)
 AI-powered financial guide offering trading insights, stock analysis, and risk management.
 
+#### [Pensyve](https://github.com/major7apps/pensyve) ![GitHub stars](https://img.shields.io/github/stars/major7apps/pensyve?style=social)
+Universal memory runtime for AI agents. Framework-agnostic, protocol-native, and offline-first, with episodic/semantic/procedural memory, 8-signal fusion retrieval, and FSRS-based forgetting. Ships as Python, TypeScript, Go, MCP, REST, and CLI.
+
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 Personal stock analysis MCP server for traders and investors.
 

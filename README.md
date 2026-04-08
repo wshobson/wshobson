@@ -58,7 +58,7 @@ Open-source AI-driven financial analysis using OpenBB and LangChain.
 
 ### 📰 Newsletter
 
-I publish [**Primitives AI**](https://primitivesai.substack.com/), a weekly newsletter on applied AI, agentic systems, and the engineering primitives behind them.
+I publish [**AI Primitives**](https://primitivesai.substack.com/), a weekly newsletter on applied AI, agentic systems, and the engineering primitives behind them.
 
 ### 📝 Latest Blog Posts
 

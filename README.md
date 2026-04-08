@@ -8,6 +8,7 @@ Hello! I'm Seth Hobson, an experienced software engineer with 15+ years building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshobson)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://sethhobson.com)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://primitivesai.substack.com/)
 
 ### 💼 Professional Experience
 
@@ -54,6 +55,10 @@ Personal stock analysis MCP server for traders and investors.
 
 #### [Financial Chat](https://github.com/wshobson/financial-chat) ![GitHub stars](https://img.shields.io/github/stars/wshobson/financial-chat?style=social)
 Open-source AI-driven financial analysis using OpenBB and LangChain.
+
+### 📰 Newsletter
+
+I publish [**Primitives AI**](https://primitivesai.substack.com/), a weekly newsletter on applied AI, agentic systems, and the engineering primitives behind them.
 
 ### 📝 Latest Blog Posts
 

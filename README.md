@@ -2,7 +2,7 @@
 
 ## Software Engineer | Applied AI | Data Engineering | Founder @ Capital Companion
 
-Hello! I'm Seth Hobson, an experienced software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
+Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 
 ### 👤 About Me
 
@@ -13,7 +13,7 @@ Hello! I'm Seth Hobson, an experienced software engineer with 15+ years building
 ### 💼 Professional Experience
 
 - Senior AI Engineer, United Data Technologies (2025-present)
-- Founder,  Major 7 Apps LLC (2024-present)
+- Founder, Major 7 Apps LLC (2024-present)
 - Senior Software Engineer, Kuali Inc. (2021-2023)
 - Senior Software Engineer, Apple Inc. (2015-2021)
 - Software development and web technologies (2009-2015)
@@ -39,25 +39,28 @@ Hello! I'm Seth Hobson, an experienced software engineer with 15+ years building
 ### 🚀 Recent Projects
 
 #### [Claude Code Plugins](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
+
 A comprehensive production-ready system combining 84 specialized AI agents, 15 multi-agent workflow orchestrators, and 44 development tools organized into 62 focused, single-purpose plugins for Claude Code.
 
 #### [Claude Code Slash Commands](https://github.com/wshobson/commands) ![GitHub stars](https://img.shields.io/github/stars/wshobson/commands?style=social)
+
 52 slash commands for Claude Code enabling multi-agent orchestration. Includes workflows for full-stack development, incident response, ML pipelines, and security hardening.
 
 #### [Capital Companion](https://capitalcompanion.ai)
+
 AI-powered financial guide offering trading insights, stock analysis, and risk management.
 
 #### [Pensyve](https://github.com/major7apps/pensyve) ![GitHub stars](https://img.shields.io/github/stars/major7apps/pensyve?style=social)
+
 Universal memory runtime for AI agents. Framework-agnostic, protocol-native, and offline-first, with episodic/semantic/procedural memory, 8-signal fusion retrieval, and FSRS-based forgetting. Ships as Python, TypeScript, Go, MCP, REST, and CLI.
 
-#### [Tiingo MCP](https://github.com/wshobson/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/tiingo-mcp?style=social)
-Production-grade MCP server for the Tiingo financial data API. 17 tools covering stocks, forex, crypto, news, fundamentals, and corporate actions. Published on [PyPI](https://pypi.org/project/tiingo-mcp/).
-
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
+
 Personal stock analysis MCP server for traders and investors.
 
-#### [Financial Chat](https://github.com/wshobson/financial-chat) ![GitHub stars](https://img.shields.io/github/stars/wshobson/financial-chat?style=social)
-Open-source AI-driven financial analysis using OpenBB and LangChain.
+#### [Tiingo MCP](https://github.com/wshobson/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/tiingo-mcp?style=social)
+
+Production-grade MCP server for the Tiingo financial data API. 17 tools covering stocks, forex, crypto, news, fundamentals, and corporate actions. Published on [PyPI](https://pypi.org/project/tiingo-mcp/).
 
 ### 📰 Newsletter
 

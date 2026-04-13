@@ -50,6 +50,9 @@ AI-powered financial guide offering trading insights, stock analysis, and risk m
 #### [Pensyve](https://github.com/major7apps/pensyve) ![GitHub stars](https://img.shields.io/github/stars/major7apps/pensyve?style=social)
 Universal memory runtime for AI agents. Framework-agnostic, protocol-native, and offline-first, with episodic/semantic/procedural memory, 8-signal fusion retrieval, and FSRS-based forgetting. Ships as Python, TypeScript, Go, MCP, REST, and CLI.
 
+#### [Tiingo MCP](https://github.com/wshobson/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/tiingo-mcp?style=social)
+Production-grade MCP server for the Tiingo financial data API. 17 tools covering stocks, forex, crypto, news, fundamentals, and corporate actions. Published on [PyPI](https://pypi.org/project/tiingo-mcp/).
+
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 Personal stock analysis MCP server for traders and investors.
 

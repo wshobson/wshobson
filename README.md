@@ -38,9 +38,9 @@ Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven 
 
 ### 🚀 Recent Projects
 
-#### [Claude Code Plugins](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
+#### [Agentic Plugin Marketplace](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 
-A comprehensive production-ready system combining 84 specialized AI agents, 15 multi-agent workflow orchestrators, and 44 development tools organized into 62 focused, single-purpose plugins for Claude Code.
+Production-ready agentic workflow building blocks: 82 plugins, 191 agents, 155 skills, and 102 commands (including 16 multi-agent orchestrators). Authored once in Markdown and shipped natively to five harnesses — Claude Code, OpenAI Codex CLI, Cursor, OpenCode, and Gemini CLI.
 
 #### [Claude Code Slash Commands](https://github.com/wshobson/commands) ![GitHub stars](https://img.shields.io/github/stars/wshobson/commands?style=social)
 

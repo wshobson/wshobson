@@ -1,6 +1,6 @@
 # Seth Hobson
 
-## Software Engineer | Applied AI | Data Engineering | Founder @ Capital Companion
+## Software Engineer | Applied AI | Data Engineering | Founder @ [Major 7 Apps](https://major7apps.com/)
 
 Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 

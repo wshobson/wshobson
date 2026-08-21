@@ -40,11 +40,11 @@ Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven 
 
 #### [Agentic Plugin Marketplace](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 
-Production-ready agentic workflow building blocks: 82 plugins, 191 agents, 155 skills, and 102 commands (including 16 multi-agent orchestrators). Authored once in Markdown and shipped natively to five harnesses — Claude Code, OpenAI Codex CLI, Cursor, OpenCode, and Gemini CLI.
+Production-ready agentic workflow building blocks: 92 plugins, 202 agents, 181 skills, and 105 commands (including 16 multi-agent orchestrators). Built for Claude Code and consumed natively by OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, and GitHub Copilot from one Markdown source.
 
 #### [Claude Code Slash Commands](https://github.com/wshobson/commands) ![GitHub stars](https://img.shields.io/github/stars/wshobson/commands?style=social)
 
-52 slash commands for Claude Code enabling multi-agent orchestration. Includes workflows for full-stack development, incident response, ML pipelines, and security hardening.
+57 slash commands for Claude Code: 15 multi-agent workflows and 42 focused tools spanning full-stack development, incident response, ML pipelines, security hardening, and infrastructure.
 
 #### [Capital Companion](https://capitalcompanion.ai)
 
@@ -58,7 +58,7 @@ Universal memory runtime for AI agents. Framework-agnostic, protocol-native, and
 
 Personal stock analysis MCP server for traders and investors.
 
-#### [Tiingo MCP](https://github.com/wshobson/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/tiingo-mcp?style=social)
+#### [Tiingo MCP](https://github.com/major7apps/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/major7apps/tiingo-mcp?style=social)
 
 Production-grade MCP server for the Tiingo financial data API. 17 tools covering stocks, forex, crypto, news, fundamentals, and corporate actions. Published on [PyPI](https://pypi.org/project/tiingo-mcp/).
 

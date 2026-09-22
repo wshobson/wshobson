@@ -4,6 +4,8 @@
 
 Hello! I'm Seth Hobson, a software engineer with 15+ years building data-driven applications, services, and distributed systems at the intersection of finance, technology, and AI.
 
+Currently building [QueryPlan](https://queryplan.dev) — learn SQL by running queries in the browser and reading the execution plan. Free [query-plan visualizer](https://queryplan.dev/tool), no signup.
+
 ### 👤 About Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshobson)

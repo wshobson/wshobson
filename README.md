@@ -44,11 +44,11 @@ I'm currently building [QueryPlan](https://queryplan.dev), where you learn SQL b
 
 #### [Agentic Plugin Marketplace](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 
-The Agentic Plugin Marketplace is a set of 94 plugins for AI coding tools, and together the plugins hold 202 agents, 184 skills, and 105 commands. You install only the plugins you need, and each plugin loads only its own files into the model's context. I built it for Claude Code, and the same Markdown source also works in OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. It replaces my earlier [Claude Code slash commands](https://github.com/wshobson/commands) repository, which is now archived.
+The Agentic Plugin Marketplace is a set of plugins for AI coding tools, and the plugins hold agents, skills, and commands. You install only the plugins you need, and each plugin loads only its own files into the model's context. I built it for Claude Code, and the same Markdown source also works in OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi.
 
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 
-Maverick MCP is a stock analysis server for the Model Context Protocol (MCP), which is the standard way for AI assistants to call outside tools. It runs on your own machine and works with any MCP client. Its 37 core tools cover market data, technical analysis, stock screening, and portfolio tracking, and none of them need an API key. Optional extras add strategy backtesting and research that uses an LLM.
+Maverick MCP is a stock analysis server for the Model Context Protocol (MCP), which is the standard way for AI assistants to call outside tools. It runs on your own machine and works with any MCP client. Its core tools cover market data, technical analysis, stock screening, and portfolio tracking, and none of them need an API key. Optional extras add strategy backtesting and research that uses an LLM.
 
 #### [Tiingo MCP](https://github.com/major7apps/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/major7apps/tiingo-mcp?style=social)
 

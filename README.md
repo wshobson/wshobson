@@ -42,15 +42,15 @@ Currently building [QueryPlan](https://queryplan.dev), where you learn SQL by ru
 
 #### [Agentic Plugin Marketplace](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 
-Production-ready agentic workflow building blocks: 92 plugins, 202 agents, 181 skills, and 105 commands (including 16 multi-agent orchestrators). Built for Claude Code and consumed natively by OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, and GitHub Copilot from one Markdown source.
+A plugin marketplace of agents, skills, and commands for AI coding tools: 94 plugins, 202 agents, 184 skills, and 105 commands, including 16 multi-agent orchestrators. You install only the plugins you need, and each one loads only its own parts into context. It is built for Claude Code, and the same Markdown source also works in OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi.
 
 #### [Claude Code Slash Commands](https://github.com/wshobson/commands) ![GitHub stars](https://img.shields.io/github/stars/wshobson/commands?style=social)
 
-57 slash commands for Claude Code: 15 multi-agent workflows and 42 focused tools spanning full-stack development, incident response, ML pipelines, security hardening, and infrastructure.
+The original collection of 57 slash commands for Claude Code: 15 multi-agent workflows and 42 focused tools for full-stack development, incident response, ML pipelines, security hardening, and infrastructure. The Agentic Plugin Marketplace above grew out of this repo and is where new work happens.
 
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 
-Personal stock analysis MCP server for traders and investors.
+A stock analysis MCP server that runs on your own machine and works with any MCP client. Its 37 core tools cover market data, technical analysis, stock screening, and portfolio tracking, and none of them need an API key. Optional extras add strategy backtesting and research driven by an LLM.
 
 #### [Tiingo MCP](https://github.com/major7apps/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/major7apps/tiingo-mcp?style=social)
 
@@ -58,4 +58,4 @@ Rust MCP server for the Tiingo financial data API, built on [rmcp](https://docs.
 
 ### 📰 Newsletter
 
-I publish [**AI Primitives**](https://primitivesai.substack.com/), a weekly newsletter on applied AI, agentic systems, and the engineering primitives behind them.
+I publish [**AI Primitives**](https://primitivesai.substack.com/), a newsletter on the infrastructure behind production AI agents: orchestration, memory, evaluation, identity, and the other primitives they run on.

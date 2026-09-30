@@ -48,7 +48,7 @@ The Agentic Plugin Marketplace is a set of plugins for AI coding tools, and the 
 
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 
-Maverick MCP is a stock analysis server for the Model Context Protocol (MCP), which is the standard way for AI assistants to call outside tools. It runs on your own machine and works with any MCP client. Its core tools cover market data, technical analysis, stock screening, and portfolio tracking, and none of them need an API key. Optional extras add strategy backtesting and research that uses an LLM.
+Maverick MCP is a stock analysis MCP server that runs on your own machine and works with any MCP client. Its core tools cover market data, technical analysis, stock screening, and portfolio tracking, and none of them need an API key. Optional extras add strategy backtesting and research that uses an LLM.
 
 #### [Tiingo MCP](https://github.com/major7apps/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/major7apps/tiingo-mcp?style=social)
 

@@ -54,7 +54,7 @@ Personal stock analysis MCP server for traders and investors.
 
 #### [Tiingo MCP](https://github.com/major7apps/tiingo-mcp) ![GitHub stars](https://img.shields.io/github/stars/major7apps/tiingo-mcp?style=social)
 
-Production-grade MCP server for the Tiingo financial data API written in Rust using [rmcp](https://docs.rs/rmcp/latest/rmcp/). 17 tools covering stocks, forex, crypto, news, fundamentals, and corporate actions. Published on [crates.io](https://crates.io/crates/tiingo-mcp/).
+Rust MCP server for the Tiingo financial data API, built on [rmcp](https://docs.rs/rmcp/latest/rmcp/). 38 tools for stocks (EOD, IEX, and consolidated), funds, forex, crypto, news, fundamentals, and corporate actions, plus short-lived real-time market-data subscriptions. Also includes 3 resources, a resource template, and 5 prompts. Available on [crates.io](https://crates.io/crates/tiingo-mcp/) and as prebuilt installers.
 
 ### 📰 Newsletter
 

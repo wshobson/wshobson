@@ -48,14 +48,6 @@ Production-ready agentic workflow building blocks: 92 plugins, 202 agents, 181 s
 
 57 slash commands for Claude Code: 15 multi-agent workflows and 42 focused tools spanning full-stack development, incident response, ML pipelines, security hardening, and infrastructure.
 
-#### [Capital Companion](https://capitalcompanion.ai)
-
-AI-powered financial guide offering trading insights, stock analysis, and risk management.
-
-#### [Pensyve](https://github.com/major7apps/pensyve) ![GitHub stars](https://img.shields.io/github/stars/major7apps/pensyve?style=social)
-
-Universal memory runtime for AI agents. Framework-agnostic, protocol-native, and offline-first, with episodic/semantic/procedural memory, 8-signal fusion retrieval, and FSRS-based forgetting. Ships as Python, TypeScript, Go, MCP, REST, and CLI.
-
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 
 Personal stock analysis MCP server for traders and investors.

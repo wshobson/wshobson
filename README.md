@@ -10,7 +10,7 @@ I'm currently building [QueryPlan](https://queryplan.dev), where you learn SQL b
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshobson)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://sethhobson.com)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://primitivesai.substack.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://swappingsymbols.substack.com/)
 
 ### 💼 Professional experience
 
@@ -56,4 +56,4 @@ Tiingo MCP is an MCP server for the Tiingo financial data API, and I wrote it in
 
 ### 📰 Newsletter
 
-I write [AI Primitives](https://primitivesai.substack.com/), a newsletter about the infrastructure that production AI agents run on, e.g., orchestration, memory, evaluation, and identity.
+I write [Swapping Symbols](https://swappingsymbols.substack.com/), a personal blog about what I’m building and learning, including practical findings in AI, software, and other subjects I want to explore.

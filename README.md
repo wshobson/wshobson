@@ -29,6 +29,7 @@ I'm currently building [QueryPlan](https://queryplan.dev), where you learn SQL b
 - AI and LLMs
   - Building AI, ML, and LLM features into applications
   - Improving LLM results with RAG, agentic RAG, supervised fine-tuning (SFT), and RAFT
+  - Infrastructure for agents, including MCP servers and gateways, plugins and harnesses for coding agents, and evals
 - Data and infrastructure
   - Database design for relational and NoSQL databases
   - Data pipelines, data analysis, and visualization
@@ -44,7 +45,7 @@ I'm currently building [QueryPlan](https://queryplan.dev), where you learn SQL b
 
 #### [Agentic Plugin Marketplace](https://github.com/wshobson/agents) ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 
-The Agentic Plugin Marketplace is a set of plugins for AI coding tools, and the plugins hold agents, skills, and commands. You install only the plugins you need, and each plugin loads only its own files into the model's context. I built it for Claude Code, and the same Markdown source also works in OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi.
+The Agentic Plugin Marketplace is a set of plugins for AI coding tools, and the plugins hold agents, skills, and commands. You install only the plugins you need, and each plugin loads only its own files into the model's context. I built it for Claude Code, and the same Markdown source also works in OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. Adapters generate the format each tool reads, and CI checks the generated files against the installed tools.
 
 #### [Maverick MCP](https://github.com/wshobson/maverick-mcp) ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=social)
 
